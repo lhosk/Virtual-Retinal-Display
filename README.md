@@ -10,6 +10,6 @@ The system was modeled in LightTools with:
 - A MEMS mirror system simulating a raster scanning pattern onto the retina.
 
 The code was used to 
-- Identify respective RGB absorption values while keeping the total laser intensity under 1 mW.
+- Identify respective RGB screen absorption values to keep the total laser intensity under 1 mW.
 - Convert images into spatial bins to extract RGB vectors and their intensities per region.
 - Scale laser intensities based on the RGB balance of each bin for accurate color representation during scanning.
