@@ -1,4 +1,4 @@
-# Virtual Retinal Display (VRD) Optical System Project
+# Virtual Retinal Display (VRD)
 
 This project models a full optical system for a single-eye Virtual Retinal Display (VRD) using LightTools and supporting code. 
 
